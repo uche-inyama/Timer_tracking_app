@@ -1,0 +1,32 @@
+.centered_card{
+  border: solid black 0.3px;
+  margin-bottom: 10px;
+  width: 25%;
+  height: 100%;
+}
+.content{
+	padding: 5px 10px;
+}
+.start_button{
+	text-align: center;
+	
+}
+.basic_content{
+	display: flex;
+	width: 15%;
+	justify-content: center;
+}
+.align{
+	padding:0 50px;
+	
+}
+.extra_content{
+	padding-left: 120px;
+}
+.edit_icon{
+	margin-right:3px;
+	cursor:pointer;
+}
+.trash_icon{
+	cursor:pointer;
+}
